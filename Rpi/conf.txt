@@ -1,0 +1,3 @@
+/etc/fstab
+/etc/samba/smb.conf
+/etc/dhcpcd.conf
