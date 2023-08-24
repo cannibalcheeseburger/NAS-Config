@@ -6,3 +6,4 @@ for con in  "${conf[@]}"
 do
   cp -f $con ./
 done
+chown -R kash ./
