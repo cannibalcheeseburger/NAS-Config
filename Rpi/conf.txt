@@ -1,3 +1,6 @@
 /etc/fstab
 /etc/samba/smb.conf
 /etc/dhcpcd.conf
+/etc/rc.local
+/var/spool/cron/crontabs/kashpi
+/var/spool/cron/crontabs/root
